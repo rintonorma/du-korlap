@@ -169,7 +169,7 @@ function successForget() {
 }
 
 function sendToEmail() {
-    window.location.href = `./index.html`
+    window.location.href = `./landing-page.html`
 }
 
 function confirmModal() {
